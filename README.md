@@ -1,6 +1,5 @@
-# PowerBrowser
-===
-*The fastest way to browse dank memes*
+## PowerBrowser
+##### *The fastest way to browse dank memes*
 
 This Chrome extension is not for the faint of heart!
 
